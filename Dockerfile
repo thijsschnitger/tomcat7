@@ -1,4 +1,4 @@
-FROM thijsschnitger/oracle-java7
+FROM thijsschnitger/oracle-java
 MAINTAINER Thijs Schnitger <thijs.schnitger@trifork.nl>
 
 ENV TOMCAT_MAJOR_VERSION 7
